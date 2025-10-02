@@ -36,7 +36,7 @@
 
 1.  リポジトリをクローンします。
     ```bash
-    git clone [https://github.com/youaoi/WindowsLocker.git](https://github.com/youaoi/WindowsLocker.git)
+    git clone https://github.com/youaoi/WindowsLocker.git
     ```
 2.  `WindowsLocker.sln` ファイルをVisual Studioで開きます。
 3.  ビルドを実行します (`F6` または `Ctrl+Shift+B`)。
